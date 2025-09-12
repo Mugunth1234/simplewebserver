@@ -75,7 +75,8 @@ httpd.serve_forever()
 ## OUTPUT:
 <img width="1907" height="1135" alt="Screenshot 2025-09-01 083102" src="https://github.com/user-attachments/assets/af666a39-cfb1-4f12-84ef-581d015e317a" />
 
-![WhatsApp Image 2025-09-12 at 08 37 12_d5a9c994](https://github.com/user-attachments/assets/556fbf7a-03a4-4e69-a952-8af6190f0b85)
+![Uploading image.png…]()
+
 
 
 
